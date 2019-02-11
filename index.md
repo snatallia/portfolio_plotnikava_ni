@@ -1,9 +1,7 @@
-## Natallia Stakheika
 
 Over 5 year of experience in IT industry that includes software development and customer support. Experienced in different phases of software development lifecycle (design, implementation and maintenance) of large-scale client-server and standalone applications. Self-motivated person, attentive to details  and patient,  responsible, communicative, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.
 
-
-###Experience
+## Experience
 
 - University of Genoa	Jan 2012 – Sept 2012
 Genoa, Italy
@@ -26,7 +24,7 @@ Stylesoft LLC created Windows-application that calculates drivers’ route sched
 Participated  in developing of windows applications for Vender machines.
 Technologies: Delphi, C#, SQL, MSSQL, CrystalReports.
 
-###Education
+## Education
 - IT Academy	Jul – Sep 2018
 English for IT. Pre-Intermediate (A2) 
 
@@ -40,37 +38,15 @@ Web Design Course
 Faculty of Applied Mathematics and Informatics. Mathematic, System developer 
 
 
-###Interests
+## About me
+I had career break about 6 years (maternity leave). I couldn’t work as a programmer in office.  I opened a business. It was an online store of wooden toys (http://woodentoys.by – owner have already changed design).  I developed a web site, found suppliers and opened a store. The store was sold when my second daughter was born. Then I helped to support websites (f.e. http://u-style.by – The Persona Image Studio “For you Style” has closed 1 year ago, http://zabelaweddings.it ) and design http://gammaeffekt.by It was just a freelance job.
+My shot-term goals are to improve my English level and find a good job that let me to find balance between family and work. Because my family is very important for me, but developing myself at work is also quite necessary for me.
 
+## Interests 
+There is shot information.
+- reading scientific and technical articals
+- meeting with friends
+- spending time with my family
+- travelling
 
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snatallia/portfolio_stakheika_ni/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I've lived in Zaslavl for 1 year. And one more interest is decoration of apartments.
