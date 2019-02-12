@@ -50,3 +50,5 @@ There is shot information.
 - travelling
 
 I've lived in Zaslavl for 1 year. And one more interest is decoration of apartments.
+<hr/>
+https://snatallia.github.io/portfolio_stakheika_ni/
