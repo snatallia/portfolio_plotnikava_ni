@@ -51,4 +51,4 @@ There is shot information.
 
 I've lived in Zaslavl for 1 year. And one more interest is decoration of apartments.
 <hr/>
-https://snatallia.github.io/portfolio_stakheika_ni/
+codewars profile https://www.codewars.com/users/snatallia
