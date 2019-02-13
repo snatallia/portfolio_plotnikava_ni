@@ -39,7 +39,7 @@ Faculty of Applied Mathematics and Informatics. Mathematic, System developer
 
 
 ## About me
-I had career break about 6 years (maternity leave). I couldn’t work as a programmer in office.  I opened a business. It was an online store of wooden toys (http://woodentoys.by – owner have already changed design).  I developed a web site, found suppliers and opened a store. The store was sold when my second daughter was born. Then I helped to support websites (f.e. http://u-style.by – The Persona Image Studio “For you Style” has closed 1 year ago, http://zabelaweddings.it ) and design http://gammaeffekt.by It was just a freelance job.
+I had career break about 6 years (maternity leave). I couldn’t work as a programmer in office.  I opened a business. It was an online store of wooden toys (<a href="{{ http://woodentoys.by }}">{{http://woodentoys.by}}</a> – owner have already changed design).  I developed a web site, found suppliers and opened a store. The store was sold when my second daughter was born. Then I helped to support websites (f.e. http://u-style.by – The Persona Image Studio “For you Style” has closed 1 year ago, http://zabelaweddings.it ) and design http://gammaeffekt.by It was just a freelance job.
 My shot-term goals are to improve my English level and find a good job that let me to find balance between family and work. Because my family is very important for me, but developing myself at work is also quite necessary for me.
 
 ## Interests 
