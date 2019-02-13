@@ -52,3 +52,6 @@ There is shot information.
 I've lived in Zaslavl for 1 year. And one more interest is decoration of apartments.
 <hr/>
 codewars profile https://www.codewars.com/users/snatallia
+Padawans.NET
+https://github.com/snatallia/FancyCalc.git
+https://github.com/snatallia/PadawansTask2.git
