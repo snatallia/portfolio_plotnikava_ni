@@ -54,5 +54,5 @@ I've lived in Zaslavl for 1 year. And one more interest is decoration of apartme
 ## Links
 - [Codewars profile](https://www.codewars.com/users/snatallia) <br/>
 - Padawans.NET repository links:<br/>
-[FancyCalc](https://github.com/snatallia/FancyCalc.git)<br/>
-[PadawansTask2](https://github.com/snatallia/PadawansTask2.git)<br/>
+-- [FancyCalc](https://github.com/snatallia/FancyCalc.git)<br/>
+-- [PadawansTask2](https://github.com/snatallia/PadawansTask2.git)<br/>
