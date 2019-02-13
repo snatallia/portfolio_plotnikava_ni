@@ -7,7 +7,7 @@ Over 5 year of experience in IT industry that includes software development and 
 Genoa, Italy
 Position: PhD Student, Department of Biological Engineering. 
 
-Research in brain waves sphere, conduct experiments about influence of serious games on brain waves and abilities to learning and training.  Development a data analysis program, prepare publication to the international conference “VS Games ‘ 2012” in Genoa (http://vsgames.org/ ).
+Research in brain waves sphere, conduct experiments about influence of serious games on brain waves and abilities to learning and training.  Development a data analysis program, prepare publication to the international conference “VS Games ‘ 2012” in Genoa [http://vsgames.org/](http://vsgames.org/ ).
  
 - System Technologies	Oct 2007 – Dec 2011
 Minsk, Belarus
@@ -39,7 +39,7 @@ Faculty of Applied Mathematics and Informatics. Mathematic, System developer
 
 
 ## About me
-I had career break about 6 years (maternity leave). I couldn’t work as a programmer in office.  I opened a business. It was an online store of wooden toys (<a href="{{ http://woodentoys.by }}">{{http://woodentoys.by}}</a> – owner have already changed design).  I developed a web site, found suppliers and opened a store. The store was sold when my second daughter was born. Then I helped to support websites (f.e. http://u-style.by – The Persona Image Studio “For you Style” has closed 1 year ago, http://zabelaweddings.it ) and design http://gammaeffekt.by It was just a freelance job.
+I had career break about 6 years (maternity leave). I couldn’t work as a programmer in office.  I opened a business. It was an online store of wooden toys [http://woodentoys.by](http://woodentoys.by) – owner have already changed design).  I developed a web site, found suppliers and opened a store. The store was sold when my second daughter was born. Then I helped to support websites (f.e. [http://u-style.by](http://u-style.by) – The Persona Image Studio “For you Style” has closed 1 year ago, [http://zabelaweddings.it](http://zabelaweddings.it) ) and design [http://gammaeffekt.by](http://gammaeffekt.by) It was just a freelance job.
 My shot-term goals are to improve my English level and find a good job that let me to find balance between family and work. Because my family is very important for me, but developing myself at work is also quite necessary for me.
 
 ## Interests 
@@ -51,7 +51,7 @@ There is shot information.
 
 I've lived in Zaslavl for 1 year. And one more interest is decoration of apartments.
 <hr/>
-codewars profile https://www.codewars.com/users/snatallia
-Padawans.NET
-https://github.com/snatallia/FancyCalc.git
-https://github.com/snatallia/PadawansTask2.git
+[codewars profile](https://www.codewars.com/users/snatallia)
+Padawans.NET repository links
+[FancyCalc](https://github.com/snatallia/FancyCalc.git)
+[PadawansTask2](https://github.com/snatallia/PadawansTask2.git)
