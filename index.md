@@ -63,4 +63,6 @@ I've lived in Zaslavl for 1 year. And one more interest is decoration of apartme
 -- [PadawansTask6](https://github.com/snatallia/PadawansTask6.git)<br/>
 -- [PadawansTask7](https://github.com/snatallia/PadawansTask7.git)<br/>
 -- [PadawansTask8](https://github.com/snatallia/PadawansTask8.git)<br/>
+-- [PadawansTask9](https://github.com/snatallia/PadawansTask9.git)<br/>
 -- [PadawansTask10](https://github.com/snatallia/PadawansTask10.git)<br/>
+-- [PadawansTask11](https://github.com/snatallia/PadawansTask11.git)<br/>
