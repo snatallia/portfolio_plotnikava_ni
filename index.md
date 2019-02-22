@@ -68,6 +68,6 @@ I've lived in Zaslavl for 1 year. And one more interest is decoration of apartme
 -- [PadawansTask11](https://github.com/snatallia/PadawansTask11.git)<br/>
 -- [PadawansTask12](https://github.com/snatallia/PadawansTask12.git)<br/>
 -- [PadawansTask13](https://github.com/snatallia/PadawansTask13.git)<br/>
--------------------------------------------------------------------------
-Task from module 3 Basic Collections: ["The First 20 elements of The Sequence"]
-(https://github.com/snatallia/TheFirst20NumbersInTheSequence.git)
+
+- Task from module 3 Basic Collections: 
+[The First 20 elements of The Sequence](https://github.com/snatallia/TheFirst20NumbersInTheSequence.git)
