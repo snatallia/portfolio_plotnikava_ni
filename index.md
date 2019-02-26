@@ -72,3 +72,6 @@ I've lived in Zaslavl for 1 year. And one more interest is decoration of apartme
 
 - Task from module 3 Basic Collections: 
 [The First 20 elements of The Sequence](https://github.com/snatallia/TheFirst20NumbersInTheSequence.git)
+
+- OOP Task9 Constructing a car #2 - Driving
+Constructing a car #2 - Driving(https://github.com/snatallia/CarDriving2.git)
