@@ -75,3 +75,6 @@ I've lived in Zaslavl for 1 year. And one more interest is decoration of apartme
 
 - OOP Task9 Constructing a car #2: 
 [Car Driving](https://github.com/snatallia/CarDriving2.git)
+
+- Tic Tac Toe Game:
+[Link to game](https://github.com/snatallia/TicTacToe.git)
