@@ -49,7 +49,7 @@ There is shot information.
 - spending time with my family
 - travelling
 
-I've lived in Zaslavl for 1 year. And one more interest is decoration of apartments.
+I'm originally from Minsk. But I've lived in Zaslavl for 1 year.
 <hr/>
 ## Links
 - [Codewars profile](https://www.codewars.com/users/snatallia) <br/>
