@@ -51,10 +51,10 @@ There is shot information.
 
 I'm originally from Minsk. But I've lived in Zaslavl for 1 year.
 <hr/>
-##Tasks
-###part2
+## Tasks
+### part2
 
-###part1
+### part1
 - [Codewars profile](https://www.codewars.com/users/snatallia) <br/>
 - Padawans.NET repository links:<br/>
 -- [FancyCalc](https://github.com/snatallia/FancyCalc.git)<br/>
@@ -84,7 +84,7 @@ I'm originally from Minsk. But I've lived in Zaslavl for 1 year.
 There is a most respectable version of TicTacToe Game where you can select a player - X or O and and enjoy the game )). This game is implemented a simple AI. I used my algorithm , not Minimax.
 
 -----------------------------
-##Angular + WebApi simple application<br/>
+## Angular + WebApi simple application
 [Repo](https://github.com/snatallia/CarRentalSolution.git)<br/>
 Angular 7 + .net core 2.2
 
