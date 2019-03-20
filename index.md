@@ -82,6 +82,6 @@ There is a most respectable version of TicTacToe Game where you can select a pla
 
 -----------------------------
 <b>Angular + WebApi simple application</b><br/>
-[Repo](https://github.com/snatallia/CarRentalSolution.git_
+[Repo](https://github.com/snatallia/CarRentalSolution.git)<br/>
 Angular 7 + .net core 2.2
 
