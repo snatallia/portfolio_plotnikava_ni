@@ -51,8 +51,9 @@ There is shot information.
 
 I'm originally from Minsk. But I've lived in Zaslavl for 1 year.
 <hr/>
-## Tasks
-C# projects
+
+## Tasks 
+C# ptojects
 
 ### part2
 Repo'll be added
