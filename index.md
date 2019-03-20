@@ -82,3 +82,9 @@ I'm originally from Minsk. But I've lived in Zaslavl for 1 year.
 - Tic Tac Toe With AI:<br/>
 [Link to game](https://github.com/snatallia/TicTacToeWithAI.git) <br/>
 There is a most respectable version of TicTacToe Game where you can select a player - X or O and and enjoy the game )). This game is implemented a simple AI. I used my algorithm , not Minimax.
+
+-----------------------------
+Simple Angular + WebApi Application
+[Repo] (https://github.com/snatallia/CarRentalSolution.git_
+Angular 7 + .net core 2.2
+
