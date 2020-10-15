@@ -4,18 +4,21 @@ Over 7 year of experience in IT industry that includes software development and 
 ## Experience
  - Interfarmax (Distributor of pharmaceutical and parapharmaceutical products in Belarus) Oct 2019 - Jun 2020
  Belarus, Minsk
+ 
  Position: .Net-developer
 
 
 
 - Specific Group Apr 2019 - Sept 2019
 Belarus, Minsk
+
 Position: Middle .Net developer
 
 Support on Dormy project - fixing bugs, adding features.
 
 - University of Genoa	Jan 2012 – Sept 2012
 Genoa, Italy
+
 Position: PhD Student, Department of Biological Engineering. 
 
 Research in brain waves sphere, conduct experiments about influence of serious games on brain waves and abilities to learning and training.  Development a data analysis program, prepare publication to the international conference “VS Games ‘ 2012” in Genoa [http://vsgames.org/](http://vsgames.org/ ).
@@ -29,6 +32,7 @@ Development, integration and custom of Corporate Internet Banking System and Ret
 
 - StyleSoft	March 2007 – Sept 2007
 Minsk, Belarus
+
 Position: .NET developer
 Stylesoft LLC created Windows-application that calculates drivers’ route schedules, vending machines sales and creates summary report for Vending business support system for Crane Streamware
 
@@ -40,11 +44,13 @@ Technologies: Delphi, C#, SQL, MSSQL, CrystalReports.
 - Udemy.com May 2020
 C# developers: Learn the Arf of Writing Clean Code
 
-Stepik.org Jun-Aug 2019
+- Stepik.org Jun-Aug 2019
 Design in C# ("Проектирование на C#")
 
 - IT Academy	Jul – Sep 2018
 English for IT. Pre-Intermediate (A2) 
+
+- University of Genoa Jan 2012 – Sept 2012 Genoa, Italy Position: PhD Student, Department of Biological Engineering.
 
 - Freedom	2009
 Web Design Course 
