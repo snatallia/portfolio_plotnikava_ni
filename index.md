@@ -5,8 +5,9 @@ Over 7 year of experience in IT industry that includes software development and 
  - Interfarmax (Distributor of pharmaceutical and parapharmaceutical products in Belarus) Oct 2019 - Jun 2020
  Belarus, Minsk
  
- Position: .Net-developer
-
+Position: .Net-developer
+Technologies:
+ .Net Core, WinForms, EntityFramework, TelerikControls, Telerik Reports, PostgreSQL
 
 
 - Specific Group Apr 2019 - Sept 2019
@@ -15,6 +16,8 @@ Belarus, Minsk
 Position: Middle .Net developer
 
 Support on Dormy project - fixing bugs, adding features.
+Technologies: 
+ .Net Code, Angular, NHibernate, TelerikControls
 
 - University of Genoa	Jan 2012 – Sept 2012
 Genoa, Italy
