@@ -5,7 +5,7 @@ Over 7 year of experience in IT industry that includes software development and 
  - Interfarmax (Distributor of pharmaceutical and parapharmaceutical products in Belarus) Oct 2019 - Jun 2020
  Belarus, Minsk
  
-Position: .Net-developer
+Position: .Net-developer<br/>
 Technologies:
  .Net Core, WinForms, EntityFramework, TelerikControls, Telerik Reports, PostgreSQL
 
@@ -13,11 +13,10 @@ Technologies:
 - Specific Group Apr 2019 - Sept 2019
 Belarus, Minsk
 
-Position: Middle .Net developer
-
-Support on Dormy project - fixing bugs, adding features.
+Position: Middle .Net developer<br/>
 Technologies: 
- .Net Code, Angular, NHibernate, TelerikControls
+ .Net Code, Angular, NHibernate, TelerikControls <br/><br/>
+Support on Dormy project - fixing bugs, adding features.
 
 - University of Genoa	Jan 2012 – Sept 2012
 Genoa, Italy
@@ -43,6 +42,8 @@ Participated  in developing of windows applications for Vender machines.
 Technologies: Delphi, C#, SQL, MSSQL, CrystalReports.
 
 ## Education
+- Udemy.com Aug 2021 - now
+Build an app with ASPNET Core and Angular from scratch
 
 - Udemy.com May 2020
 C# developers: Learn the Arf of Writing Clean Code
