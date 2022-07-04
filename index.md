@@ -3,14 +3,15 @@ Over 7 year of experience in IT industry that includes software development and 
 
 ## Experience
  - Freelance Dec 21 - Feb 22
- Stock market analyzer
+ 
+ Stock market analyzer<br/>
  Technologies: 
  .Net Core 5.0, EntiteFrameworkCore 5.0, SQLite, Angular 13
  
  
  - Interfarmax (Distributor of pharmaceutical and parapharmaceutical products in Belarus) Oct 2019 - Jun 2020
  Belarus, Minsk
- 
+
 Position: .Net-developer<br/>
 Technologies:
  .Net Core, WinForms, EntityFramework, TelerikControls, Telerik Reports, PostgreSQL
@@ -21,21 +22,20 @@ Belarus, Minsk
 
 Position: Middle .Net developer<br/>
 Technologies: 
- .Net Code, Angular, NHibernate, TelerikControls <br/><br/>
+ .Net Code, Angular, NHibernate, TelerikControls <br/>
 Support on Dormy project - fixing bugs, adding features.
 
 - University of Genoa	Jan 2012 – Sept 2012
 Genoa, Italy
 
-Position: PhD Student, Department of Biological Engineering. 
-
+Position: PhD Student, Department of Biological Engineering. <br/>
 Research in brain waves sphere, conduct experiments about influence of serious games on brain waves and abilities to learning and training.  Development a data analysis program, prepare publication to the international conference “VS Games ‘ 2012” in Genoa [http://vsgames.org/](http://vsgames.org/ ).
  
 - System Technologies	Oct 2007 – Dec 2011
 Minsk, Belarus
-Position: ASP.NET developer
-System technologies are specialized in development of our own software products for automation of banks’ and companies’ activities. Our products are used by over 30 banks and leading industrial enterprises in CIS states.
 
+Position: ASP.NET developer<br/>
+System technologies are specialized in development of our own software products for automation of banks’ and companies’ activities. Our products are used by over 30 banks and leading industrial enterprises in CIS states.<br/>
 Development, integration and custom of Corporate Internet Banking System and Retail Internet Banking System. My main possibility was the creation of web forms of payment documents in Internet Banking System for Corporate. Also I was  involved in fixing bugs, making new forms and modules, participated in team meetings and discuss. Taught newly hired employees and organized work of a project (2 employees)
 
 - StyleSoft	March 2007 – Sept 2007
@@ -73,3 +73,5 @@ Faculty of Applied Mathematics and Informatics. Mathematic, System developer
 
 <hr/>
 
+## About me
+Married. Two daughters
