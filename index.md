@@ -2,6 +2,12 @@
 Over 7 year of experience in IT industry that includes software development and customer support. Experienced in different phases of software development lifecycle (design, implementation and maintenance) of large-scale client-server and standalone applications. Self-motivated person, attentive to details  and patient,  responsible, communicative, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.
 
 ## Experience
+ - Freelance Dec 21 - Feb 22
+ Stock market analyzer
+ Technologies: 
+ .Net Core 5.0, EntiteFrameworkCore 5.0, SQLite, Angular 13
+ 
+ 
  - Interfarmax (Distributor of pharmaceutical and parapharmaceutical products in Belarus) Oct 2019 - Jun 2020
  Belarus, Minsk
  
@@ -42,7 +48,7 @@ Participated  in developing of windows applications for Vender machines.
 Technologies: Delphi, C#, SQL, MSSQL, CrystalReports.
 
 ## Education
-- Udemy.com Aug 2021 - now
+- Udemy.com Aug 2021 - Nov 2021
 Build an app with ASPNET Core and Angular from scratch
 
 - Udemy.com May 2020
@@ -52,7 +58,7 @@ C# developers: Learn the Arf of Writing Clean Code
 Design in C# ("Проектирование на C#")
 
 - IT Academy	Jul – Sep 2018
-English for IT. Pre-Intermediate (A2) 
+English for IT. Pre-Intermediate (B1) 
 
 - University of Genoa Jan 2012 – Sept 2012 Genoa, Italy Position: PhD Student, Department of Biological Engineering.
 
