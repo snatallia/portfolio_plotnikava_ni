@@ -77,3 +77,6 @@ Faculty of Applied Mathematics and Informatics. Mathematic, System developer
 Experience in not IT sphere as a business owner and teacher<br/>
 Married. Two daughters. <br/>
 Driver license B.<br/>
+English: Pre-intermediate (A2)
+Italian: Elementary
+
