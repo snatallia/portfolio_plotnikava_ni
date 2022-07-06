@@ -74,6 +74,6 @@ Faculty of Applied Mathematics and Informatics. Mathematic, System developer
 <hr/>
 
 ## Additional information
-Experience in no IT sphere as a business owner and teacher<br/>
+Experience in not IT sphere as a business owner and teacher<br/>
 Married. Two daughters. <br/>
 Driver license B.<br/>
