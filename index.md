@@ -1,29 +1,30 @@
-
-Over 7 year of experience in IT industry that includes software development and customer support. Experienced in different phases of software development lifecycle (design, implementation and maintenance) of large-scale client-server and standalone applications. Self-motivated person, attentive to details  and patient,  responsible, communicative, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.
+Over 7 year of experience in IT industry. Experienced in different phases of software development lifecycle (design, implementation and maintenance) of large-scale client-server and standalone applications. Ability to understand and interpret requirements and wishes of the customer and the end user to design quality software. Self-motivated person, attentive to details  and patient,  responsible, communicative, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.
 
 ## Experience
- - Freelance Dec 21 - Feb 22
- 
- Stock market analyzer<br/>
+ - Freelance Dec 21 - Feb 22 <br/>
+Zaslaue, Belarus
+  
+ Position: .Net-developer<br/>
  Technologies: 
- .Net Core 5.0, EntiteFrameworkCore 5.0, SQLite, Angular 13
- 
+ .Net Core 5.0, EntiteFrameworkCore 5.0, SQLite, Angular 13 <br/>
+ Development of a project related to getting,  selection, visualization and filtering stock data.
  
  - Interfarmax (Distributor of pharmaceutical and parapharmaceutical products in Belarus) Oct 2019 - Jun 2020
  Belarus, Minsk
 
 Position: .Net-developer<br/>
 Technologies:
- .Net Core, WinForms, EntityFramework, TelerikControls, Telerik Reports, PostgreSQL
-
+ .Net Core, WinForms, EntityFramework, TelerikControls, Telerik Reports, PostgreSQL<br/>
+ Development of a project related to the service of insured persons.	
+ 
 
 - Specific Group Apr 2019 - Sept 2019
 Belarus, Minsk
 
 Position: Middle .Net developer<br/>
 Technologies: 
- .Net Code, Angular, NHibernate, TelerikControls <br/>
-Support on Dormy project - fixing bugs, adding features.
+ .Net Framework 4.6, .Net Code, Angular, NHibernate, TelerikControls, Bootstrap <br/>
+Support on Dormy project (Support on Dormy project (specialized, cloud-based management software that helps student housing complexes and dormitories) - fixing bugs, adding features) - fixing bugs, adding features.
 
 - University of Genoa	Jan 2012 – Sept 2012
 Genoa, Italy
@@ -35,17 +36,17 @@ Research in brain waves sphere, conduct experiments about influence of serious g
 Minsk, Belarus
 
 Position: ASP.NET developer<br/>
-System technologies are specialized in development of our own software products for automation of banks’ and companies’ activities. Our products are used by over 30 banks and leading industrial enterprises in CIS states.<br/>
+Technologies:  NET Framework 2.0, 3.5 (ASP.NET, WPF, MVC, LINQ), AJAX, JS,  JSON,  XML (XSD,   XSLT), .NET Telerik Controls , Sybase,  MS SQL<br/>
 Development, integration and custom of Corporate Internet Banking System and Retail Internet Banking System. My main possibility was the creation of web forms of payment documents in Internet Banking System for Corporate. Also I was  involved in fixing bugs, making new forms and modules, participated in team meetings and discuss. Taught newly hired employees and organized work of a project (2 employees)
 
 - StyleSoft	March 2007 – Sept 2007
 Minsk, Belarus
 
 Position: .NET developer
-Stylesoft LLC created Windows-application that calculates drivers’ route schedules, vending machines sales and creates summary report for Vending business support system for Crane Streamware
+Technologies: Delphi, C#, SQL, MSSQL, CrystalReports.<br/>
 
 Participated  in developing of windows applications for Vender machines.
-Technologies: Delphi, C#, SQL, MSSQL, CrystalReports.
+
 
 ## Education
 - Udemy.com Aug 2021 - Nov 2021
@@ -73,5 +74,8 @@ Faculty of Applied Mathematics and Informatics. Mathematic, System developer
 
 <hr/>
 
-## About me
-Married. Two daughters
+## Additional information
+Experience in not IT sphere as a business owner and teacher
+Married. Two daughters. 
+Driver license B.
+Expir
