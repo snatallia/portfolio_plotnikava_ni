@@ -1,7 +1,7 @@
 Over 7 year of experience in IT industry. Experienced in different phases of software development lifecycle (design, implementation and maintenance) of large-scale client-server and standalone applications. Ability to understand and interpret requirements and wishes of the customer and the end user to design quality software. Self-motivated person, attentive to details  and patient,  responsible, communicative, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.
 
 ## Experience
- - Freelance Dec 2021 - Feb 2222 <br/>
+ - Freelance Dec 2021 - Feb 2022 <br/>
 Zaslaue, Belarus
   
  Position: .Net-developer<br/>
@@ -24,7 +24,7 @@ Belarus, Minsk
 Position: Middle .Net developer<br/>
 Technologies: 
  .Net Framework 4.6, .Net Code, Angular, NHibernate, TelerikControls, Bootstrap <br/>
-Support on Dormy project (Support on Dormy project (specialized, cloud-based management software that helps student housing complexes and dormitories) - fixing bugs, adding features) - fixing bugs, adding features.
+Support on Dormy project (Support on Dormy project (specialized, cloud-based management software that helps student housing complexes and dormitories) - fixing bugs, adding features.
 
 - University of Genoa	Jan 2012 – Sept 2012
 Genoa, Italy
