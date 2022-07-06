@@ -1,7 +1,7 @@
 Over 7 year of experience in IT industry. Experienced in different phases of software development lifecycle (design, implementation and maintenance) of large-scale client-server and standalone applications. Ability to understand and interpret requirements and wishes of the customer and the end user to design quality software. Self-motivated person, attentive to details  and patient,  responsible, communicative, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.
 
 ## Experience
- - Freelance Dec 21 - Feb 22 <br/>
+ - Freelance Dec 2021 - Feb 2222 <br/>
 Zaslaue, Belarus
   
  Position: .Net-developer<br/>
@@ -9,7 +9,7 @@ Zaslaue, Belarus
  .Net Core 5.0, EntiteFrameworkCore 5.0, SQLite, Angular 13 <br/>
  Development of a project related to getting,  selection, visualization and filtering stock data.
  
- - Interfarmax (Distributor of pharmaceutical and parapharmaceutical products in Belarus) Oct 2019 - Jun 2020
+ - Interfarmax (Distributor of pharmaceutical and parapharmaceutical products) Oct 2019 - Jun 2020 <br/>
  Belarus, Minsk
 
 Position: .Net-developer<br/>
@@ -44,7 +44,6 @@ Minsk, Belarus
 
 Position: .NET developer
 Technologies: Delphi, C#, SQL, MSSQL, CrystalReports.<br/>
-
 Participated  in developing of windows applications for Vender machines.
 
 
@@ -75,7 +74,6 @@ Faculty of Applied Mathematics and Informatics. Mathematic, System developer
 <hr/>
 
 ## Additional information
-Experience in not IT sphere as a business owner and teacher
-Married. Two daughters. 
-Driver license B.
-Expir
+Experience in no IT sphere as a business owner and teacher<br/>
+Married. Two daughters. <br/>
+Driver license B.<br/>
