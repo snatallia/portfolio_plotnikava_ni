@@ -4,11 +4,11 @@ Middle .Net developer<br/>
 Looking for a remote job (contract of employment)
 
 ## Commom
-Over 7 year of experience in IT industry. Experienced in different phases of software development lifecycle (design, implementation and maintenance) of large-scale client-server and standalone applications. Ability to understand and interpret requirements and wishes of the customer and the end user to design quality software. Self-motivated person, attentive to details  and patient,  responsible, communicative, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.
+Over 7 year of experience in IT industry. My expertise includes all development stages, from initial analysis through design and execution. My ability to communicate well enables me to work effectively with clients to identify objectives and requirements for applications. Attentive to details  and patient,  responsible, self-motivated person, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.  
 
 ## Experience
  - Freelance Sep 2021 - Mar 2022 <br/>
-Belarus, Zaslaue
+Zaslaue, Belarus
   
  Position: .Net-developer<br/>
  Technologies: 
@@ -16,7 +16,7 @@ Belarus, Zaslaue
  Development of a project related to getting,  selection, visualization and filtering stock data.
  
  - Interfarmax (Distributor of pharmaceutical and parapharmaceutical products) Oct 2019 - Jun 2020 <br/>
- Belarus, Minsk
+Minsk, Belarus
 
 Position: .Net-developer<br/>
 Technologies:
@@ -25,7 +25,7 @@ Technologies:
  
 
 - Specific Group Apr 2019 - Sept 2019<br/>
-Belarus, Minsk
+Minsk, Belarus
 
 Position: Middle .Net developer<br/>
 Technologies: 
