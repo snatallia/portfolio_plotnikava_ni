@@ -1,12 +1,14 @@
 Gdańsk, Poland
-+48789796987 (WhatsApp, telegram)
++48789796987 (WhatsApp, telegram)<br/>
+Middle .Net developer<br/>
+Looking for a remote job (contract of employment)
 
 ## Commom
 Over 7 year of experience in IT industry. Experienced in different phases of software development lifecycle (design, implementation and maintenance) of large-scale client-server and standalone applications. Ability to understand and interpret requirements and wishes of the customer and the end user to design quality software. Self-motivated person, attentive to details  and patient,  responsible, communicative, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.
 
 ## Experience
  - Freelance Sep 2021 - Mar 2022 <br/>
-Zaslaue, Belarus
+Belarus, Zaslaue
   
  Position: .Net-developer<br/>
  Technologies: 
@@ -22,7 +24,7 @@ Technologies:
  Development of a project related to the service of insured persons.	
  
 
-- Specific Group Apr 2019 - Sept 2019
+- Specific Group Apr 2019 - Sept 2019<br/>
 Belarus, Minsk
 
 Position: Middle .Net developer<br/>
@@ -30,20 +32,20 @@ Technologies:
  .Net Framework 4.6, .Net Code, Angular, NHibernate, TelerikControls, Bootstrap <br/>
 Support on Dormy project (Support on Dormy project (specialized, cloud-based management software that helps student housing complexes and dormitories) - fixing bugs, adding features.
 
-- University of Genoa	Jan 2012 – Sept 2012
+- University of Genoa	Jan 2012 – Sept 2012<br/>
 Genoa, Italy
 
 Position: PhD Student, Department of Biological Engineering. <br/>
 Research in brain waves sphere, conduct experiments about influence of serious games on brain waves and abilities to learning and training.  Development a data analysis program, prepare publication to the international conference “VS Games ‘ 2012” in Genoa [http://vsgames.org/](http://vsgames.org/ ).
  
-- System Technologies	Oct 2007 – Dec 2011
+- System Technologies	Oct 2007 – Dec 2011<br/>
 Minsk, Belarus
 
 Position: ASP.NET developer<br/>
 Technologies:  NET Framework 2.0, 3.5 (ASP.NET, WPF, MVC, LINQ), AJAX, JS,  JSON,  XML (XSD,   XSLT), .NET Telerik Controls , Sybase,  MS SQL<br/>
 Development, integration and custom of Corporate Internet Banking System and Retail Internet Banking System. My main possibility was the creation of web forms of payment documents in Internet Banking System for Corporate. Also I was  involved in fixing bugs, making new forms and modules, participated in team meetings and discuss. Taught newly hired employees and organized work of a project (2 employees)
 
-- StyleSoft	March 2007 – Sept 2007
+- StyleSoft	March 2007 – Sept 2007 <br/>
 Minsk, Belarus
 
 Position: .NET developer
