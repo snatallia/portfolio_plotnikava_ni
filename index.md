@@ -1,7 +1,11 @@
+Gdańsk, Poland
++48789796987 (WhatsApp, telegram)
+
+## Commom
 Over 7 year of experience in IT industry. Experienced in different phases of software development lifecycle (design, implementation and maintenance) of large-scale client-server and standalone applications. Ability to understand and interpret requirements and wishes of the customer and the end user to design quality software. Self-motivated person, attentive to details  and patient,  responsible, communicative, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.
 
 ## Experience
- - Freelance Dec 2021 - Feb 2022 <br/>
+ - Freelance Sep 2021 - Mar 2022 <br/>
 Zaslaue, Belarus
   
  Position: .Net-developer<br/>
@@ -74,9 +78,10 @@ Faculty of Applied Mathematics and Informatics. Mathematic, System developer
 <hr/>
 
 ## Additional information
-Experience in not IT sphere as a business owner and teacher<br/>
-Married. Two daughters. <br/>
+Experience in not IT sphere: a year and a half as a business owner, two years as a teacher<br/>
 Driver license B.<br/>
 English: Pre-intermediate (A2)
-Italian: Elementary
+Italian, Polish: Elementary <br/>
+Married. Two daughters.
+
 
