@@ -1,7 +1,9 @@
-Gdańsk, Poland
-+48789796987 (WhatsApp, telegram)<br/>
 Middle .Net developer<br/>
-Looking for a remote job (contract of employment)
+Looking for a remote job (contract of employment)<br/>
+
+Gdańsk, Poland <br/>
++48789796987 (WhatsApp, telegram)<br/>
+snatallia@gmail.com
 
 ## Commom
 Over 7 year of experience in IT industry. My expertise includes all development stages, from initial analysis through design and execution. My ability to communicate well enables me to work effectively with clients to identify objectives and requirements for applications. Attentive to details  and patient,  responsible, self-motivated person, a results-driven, interested in learning new technologies, flexible,  work well individually and in team.  
