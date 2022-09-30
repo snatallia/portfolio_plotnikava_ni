@@ -8,7 +8,7 @@ Over 7 year of experience in IT industry. My expertise includes all development 
 
 ## Experience
  - Freelance Sep 2021 - Mar 2022 <br/>
-Zaslaue, Belarus
+Minsk, Belarus
   
  Position: .Net-developer<br/>
  Technologies: 
