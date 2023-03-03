@@ -1,10 +1,10 @@
 .Net developer<br/>
-Looking for a remote or hybrid job (contract of employment){:target="_blank" rel="noopener"}<br/>
+Looking for a remote or hybrid job (contract of employment)<br/>
 
 Gdańsk, Poland <br/>
 +48789796987 (WhatsApp, telegram)<br/>
 snatallia@gmail.com <br/>
-[LinkedIn profile](https://www.linkedin.com/in/nata-plotnikava/)
+[LinkedIn profile](https://www.linkedin.com/in/nata-plotnikava/){:target="_blank" rel="noopener"}
 
 ## Commom
 Experienced in different phases of software development life cycle (planning, design, implementation and maintenance) of large-scale client-server and standalone applications. Striving for technical growth and self-education, analytical mind, attentive to details and patient, responsible, communicative,  flexible, work well individually and in team.
