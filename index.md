@@ -1,5 +1,5 @@
 .Net developer<br/>
-Looking for a remote or hybrid job (contract of employment)<br/>
+Looking for a remote or hybrid job (contract of employment){:target="_blank" rel="noopener"}<br/>
 
 Gdańsk, Poland <br/>
 +48789796987 (WhatsApp, telegram)<br/>
@@ -48,7 +48,7 @@ Participated  in developing of windows applications for Vender machines.
 - Jan 2012 - Sept 2012, University of Genoa , Italy 
 Position: PhD Student (not completed), Department of Biological Engineering.
 
-Research in brain waves sphere, conduct experiments about influence of serious games on brain waves and abilities to learning and training.  Development a data analysis program, prepare publication to the international conference “VS Games ‘ 2012” in Genoa [http://vsgames.org/](http://vsgames.org/ ).
+Research in brain waves sphere, conduct experiments about influence of serious games on brain waves and abilities to learning and training.  Development a data analysis program, prepare publication to the international conference “VS Games ‘ 2012” in Genoa [http://vsgames.org/](http://vsgames.org/ ){:target="_blank" rel="noopener"}.
 
 - 2003-2008, Belarusian State University, Minsk
 
