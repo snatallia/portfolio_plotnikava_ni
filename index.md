@@ -50,7 +50,7 @@ Position: PhD Student (not completed), Department of Biological Engineering.
 
 Research in brain waves sphere, conduct experiments about influence of serious games on brain waves and abilities to learning and training.  Development a data analysis program, prepare publication to the international conference “VS Games ‘ 2012” in Genoa [http://vsgames.org/](http://vsgames.org/ ).
 
-- 2003-2208, Belarusian State University, Minsk
+- 2003-2008, Belarusian State University, Minsk
 
 Faculty of Applied Mathematics and Computer Science, department of Computer Technology and Systems.
 Mathematic, System programmer
