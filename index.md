@@ -95,8 +95,8 @@ Married. Two daughters.
 
 
 <p align='center'>
-   <<!-- <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+   <<!-- <a href="https://github-readme-stats.vercel.app/api?username=snatallia&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=snatallia&show_icons=true&count_private=true"/></a> -->
-   <a href="https://github.com/romankh3/github-readme-stats">
+   <a href="https://github.com/snatallia/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=snatallia&layout=compact"/></a>
 </p>
