@@ -93,7 +93,6 @@ English: Intermediate (A2-B1)<br/>
 Italian, Polish: Elementary <br/>
 Married. Two daughters.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snatallia&layout=compact)](https://github.com/snatallia/github-readme-stats){:target="_blank" rel="noopener"}
 <p align='center'>   
    <a href="https://github.com/snatallia/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=snatallia&layout=compact"/></a>
